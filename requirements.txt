@@ -1,7 +1,8 @@
 streamlit==1.30.0
 pandas==2.0.3
-numpy==1.26.4
+numpy==1.25.2      # (Python 3.11 kullanıyorsan sorun değil)
+matplotlib>=3.7
 plotly==5.18.0
 yfinance==0.2.32
-pyportfolioopt==1.5.4
+pyportfolioopt>=1.5.4
 scipy==1.12.0
