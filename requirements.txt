@@ -1,6 +1,6 @@
 streamlit==1.30.0
-pandas==2.1.4
-numpy==1.26.2
+pandas==2.0.3
+numpy==1.25.2
 plotly==5.18.0
 yfinance==0.2.32
 pypfopt==1.5.4
